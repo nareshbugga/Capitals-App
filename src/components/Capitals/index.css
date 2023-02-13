@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub-container {
+  background-color: #ffffff;
+  height: 50vh;
+  width: 40vw;
+  text-align: center;
+  border-radius: 10px;
+  padding: 20px;
+}
+.select-container {
+  width: 150px;
+  height: 30px;
+  border-color: #cbd2d9;
+  color: #323f4b;
+  font-family: 'Roboto';
+}
+label {
+  font-family: 'Roboto';
+  color: #323f4b;
+}
+p {
+  font-weight: bold;
+}
